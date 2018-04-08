@@ -1,0 +1,29 @@
+Assignment7: Supervised Learning
+
+For the following two data sets, originating from the Irvine Machine Learning Repository (http://archive.ics.uci.edu/ml/):
+
+1) Iris (http://archive.ics.uci.edu/ml/datasets/Iris)
+2) Congressional Voting Records (http://archive.ics.uci.edu/ml/datasets/Congressional+Voting+Records)
+
+a) Build classification models based on each of these algorithms:
+
+Logistic Regression or SVM
+Random Forest or Boosting (i.e. Adaboost)
+CART (i.e. Decision Tree)
+The models should help in classification of types of iris flowers 
+(1) and the parties of congressmen 
+(2) based on flower properties and voting record, respectively. 
+Clean up and discretize the data, if needed (if you need domain knowledge, you can read more about the data sets in the descriptions placed at UCI Repository). 
+Make sure to try different learning algorithms and their parameters.
+
+Once you have learned models, check and report their classification accuracy (by means of a cross-validation method). 
+Try to improve the accuracy by using
+
+b) feature selection,
+
+c) feature expansion (e.g. pairwise interactions, kernel trick), and,
+
+d) combine both together.
+
+Report the best classification accuracy that you have been able to achieve for each of the two data sets along with the methods that gave you the best accuracy. 
+Make sure to summarize your observations and conclusions.
