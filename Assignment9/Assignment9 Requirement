@@ -1,0 +1,18 @@
+Assignment9: unsupervised learning
+
+For the following two data sets, originating from the Irvine Machine Learning Repository (http://archive.ics.uci.edu/ml/):
+
+Iris (http://archive.ics.uci.edu/ml/datasets/Iris)
+Congressional Voting Records (http://archive.ics.uci.edu/ml/datasets/Congressional+Voting+Records)
+
+Build clustering models the result based on each of these algorithms:
+K-means (Bonus if initializing with K-means++)
+Gaussian Mixture Model
+Hierarchical Clustering
+
+Note: You also need to demonstrate how to determine the number of clusters based on one of these methods: 
+elbow, BIC, or Silhouette
+
+Visualize both datasets based on each of these algorithms:
+PCA
+Autoencoder (t-sne)
